@@ -7,6 +7,7 @@ export default makeStyles({
     backgroundColor: 'rgba(0, 0, 0, 0.5)',
     backgroundBlendMode: 'darken',
   },
+  
   border: {
     border: 'solid',
   },
